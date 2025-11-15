@@ -8,11 +8,5 @@ __pycache__/
 .env
 .env.*
 
-# Model artifacts
-models/
-artifacts/
-*.joblib
-test_metrics.json
-
 # OS files
 .DS_Store
