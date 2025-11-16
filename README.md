@@ -1,5 +1,7 @@
 # Breast Cancer Classifier – Streamlit App
 
+Demo: https://breast-cancer-classifiergit-inj3diium6rgbxwnck8dze.streamlit.app/
+
 This repository contains a complete workflow for a binary classification task using the Breast Cancer Wisconsin (Diagnostic) dataset and a simple Streamlit app for inference.
 
 ## Contents
